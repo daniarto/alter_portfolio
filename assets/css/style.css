@@ -1,0 +1,42 @@
+.card-header{
+	background-color: #6200ea;
+}
+
+.btn-main{
+	background-color: #6200ea;
+}
+
+.text-name{
+	font-size: 4rem;
+	color: #ffffff;
+}
+
+.text-profile{
+	font-size: 3rem;
+	color: #ffffff;
+}
+
+.icon-sosmed{
+	font-size: 1.5rem;
+	color: #ffffff;
+}
+
+.text-black{
+	color: #000000;
+}
+
+.bg-ongoing{
+	background-color: #F99417;
+}
+
+.bg-clients{
+	background-color: #03C988;
+}
+
+.bg-project-done{
+	background-color: #B6EADA;
+}
+
+.text-bold{
+	font-weight: bold;
+}
